@@ -1,0 +1,26 @@
+{
+  "name": "do",
+  "version": "0.1",
+  "main": "do.src.js",
+  "description": "jQuery event handler that enables easier testing",
+  "homepage": "https://github.com/dnadesign/do.js",
+  "authors": [
+    "dev@dna.co.nz"
+  ],
+  "keywords": [
+    "event",
+    "handling",
+    "subscribe"
+  ],
+  "license": "BSD-3",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
